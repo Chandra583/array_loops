@@ -15,3 +15,8 @@ console.log(typeof arr, arr)
 arr.forEach((a)=>{
   console.log(a);
 })
+
+let ch = [11,45,77,85,41]
+for(let i of ch){
+  console.log(i)
+}
