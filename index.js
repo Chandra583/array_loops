@@ -20,3 +20,6 @@ let ch = [11,45,77,85,41]
 for(let i of ch){
   console.log(i)
 }
+
+let a = 45;
+console.log(a)
